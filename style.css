@@ -4,6 +4,6 @@ Text Domain: wordpress-dev
 Author: doxifieq
 */
 
-* {
-    border: 1px solid black;
+h1 {
+    color: red;
 }
